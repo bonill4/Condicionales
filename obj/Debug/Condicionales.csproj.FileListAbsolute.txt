@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\Condicionales\bin\Debug\Condicionales.exe.config
+C:\Users\willi\source\repos\Condicionales\bin\Debug\Condicionales.exe
+C:\Users\willi\source\repos\Condicionales\bin\Debug\Condicionales.pdb
+C:\Users\willi\source\repos\Condicionales\obj\Debug\Condicionales.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Condicionales\obj\Debug\Condicionales.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Condicionales\obj\Debug\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Condicionales\obj\Debug\Condicionales.exe
+C:\Users\willi\source\repos\Condicionales\obj\Debug\Condicionales.pdb
